@@ -1,5 +1,9 @@
 # HUANANZHI X99-F8 GAMING
-  CX99DE25 BIOS for HUANANZHI X99-F8 GAMING Motherboard 07/25/2020
+
+
+## CX99DE25 BIOS for HUANANZHI X99-F8 GAMING Motherboard 07/25/2020
+  
+![CX99DE25 BIOS for HUANANZHI X99-F8 GAMING Motherboard 07/25/2020](MAIN.png)
 
   Builder: iEngineer
 
@@ -7,6 +11,7 @@
 
   Update:
 1) ME Firmware (latest) version 9.1.45.3000 (5MiB).
+![ME Firmware version 9.1.45.3000](ME.png)
 2) EFI/OROM for RSTe SATA(Port 0-3)/sSATA(Port 4-7) firmware up to 5.5.5.1005 ((latest) Full I/O speed).
 3) CPU microcode (latest).
 4) AMI NVMe firmware (latest).
