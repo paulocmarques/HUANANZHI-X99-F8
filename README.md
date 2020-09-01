@@ -41,3 +41,6 @@ MBEx, Cipher Transport Layer TLS (CVE-2017-5689 & CVE-2018-3616), PTT, NFC, RPAT
 2) Clear CMOS.
 3) After restart go to the BIOS setting & use 'Restore Default' / 'F10' / 'Enter'
 4) Configure RAM timings & enjoy.
+
+Addon: 7BB28B99-61BB-11D5-9A5D-0090273FC14D.FFS
+![Belarus Edition](BELARUS-EDITION.png)
