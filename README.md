@@ -3,7 +3,12 @@
 
 ## CX99DE25 BIOS for HUANANZHI X99-F8 GAMING Motherboard 07/25/2020
   
-![CX99DE25 BIOS for HUANANZHI X99-F8 GAMING Motherboard 07/25/2020](MAIN.png)
+![CX99DE25 BIOS for HUANANZHI X99-F8 GAMING Motherboard 07/25/2020](MAIN.PNG)
+![Realtek UIEFI UNDI Driver](UNDI.png)
+![Intel XMP Configuration](MEMORY.png)
+![Boot option](BOOT.png)
+![PC Health Status](PM.png)
+![Save & Exit](SAVE.png)
 
   Builder: iEngineer
 
@@ -11,18 +16,18 @@
 
   Update:
 1) ME Firmware (latest) version 9.1.45.3000 (5MiB).
-![ME Firmware version 9.1.45.3000](ME.png)
 2) EFI/OROM for RSTe SATA(Port 0-3)/sSATA(Port 4-7) firmware up to 5.5.5.1005 ((latest) Full I/O speed).
 3) CPU microcode (latest).
 4) AMI NVMe firmware (latest).
-5) DMI Data.
+5) LAN BOOT ROM.
+6) Realtek UIEFI UNDI Driver.
+7) DMI Data.
 
   Deleted:
 1) All trash (Unrelated to Huananzhi X99-F8).
-2) LAN BOOT ROM.
 
   Added:
-1) EFI Shell.
+1) EFI Shell version 2.40.
 
   Looked:
 MBEx, Cipher Transport Layer TLS (CVE-2017-5689 & CVE-2018-3616), PTT, NFC, RPAT, AMT.
