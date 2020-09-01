@@ -20,7 +20,7 @@
 3) CPU microcode (latest).
 4) AMI NVMe firmware (latest).
 5) LAN BOOT ROM.
-6) Realtek UIEFI UNDI Driver.
+6) EFI Realtek UNDI PCIe GbE Family Controller Driver (2.054, 06/30/2020).
 7) DMI Data.
 
   Deleted:
