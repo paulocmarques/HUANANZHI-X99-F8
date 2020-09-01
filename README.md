@@ -44,3 +44,8 @@ MBEx, Cipher Transport Layer TLS (CVE-2017-5689 & CVE-2018-3616), PTT, NFC, RPAT
 
 Addon: 7BB28B99-61BB-11D5-9A5D-0090273FC14D.FFS
 ![Belarus Edition](BELARUS-EDITION.png)
+
+  How to install:
+1) Open BIOS file in UEFITool
+2) Find (Ctrl+F) GUID 7BB28B99-61BB-11D5-9A5D-0090273FC14D then select (Ctrl+R) Replace as is (choise new downloaded  7BB28B99-61BB-11D5-9A5D-0090273FC14D.FFS file).
+3) File (Ctrl+S) Save image file.
