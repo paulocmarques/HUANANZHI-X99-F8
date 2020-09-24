@@ -1,5 +1,16 @@
 # HUANANZHI X99-F8 GAMING
 
+<div align="center">
+    <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-F8/releases">
+        <img src="https://img.shields.io/github/downloads/BIOS-iEngineer/HUANANZHI-X99-F8/total.svg" alt="downloads"/>
+    </a>
+    <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-F8/releases/latest">
+        <img src="https://img.shields.io/github/release/BIOS-iEngineer/HUANANZHI-X99-F8.svg" alt="latest version"/>
+    </a>
+    <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-F8/blob/master/License.txt">
+        <img src="https://img.shields.io/github/license/BIOS-iEngineer/HUANANZHI-X99-F8.svg" alt="license"/>
+    </a>
+</div>
 
 ## CX99DE25 BIOS for HUANANZHI X99-F8 GAMING Motherboard 07/25/2020
   
