@@ -9,7 +9,7 @@
     <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-F8/releases/latest">
         <img src="https://img.shields.io/github/release/BIOS-iEngineer/HUANANZHI-X99-F8.svg" alt="latest version"/>
     </a>
-    <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-F8/blob/master/License.txt">
+    <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-F8/blob/master/License">
         <img src="https://img.shields.io/github/license/BIOS-iEngineer/HUANANZHI-X99-F8.svg" alt="license"/>
     </a>
 </div>
