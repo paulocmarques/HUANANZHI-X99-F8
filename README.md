@@ -1,8 +1,8 @@
 # HUANANZHI X99-F8 GAMING
 
-* ### Reliase CX99DE25R 09/24/2020
+### Reliase CX99DE25R 09/24/2020
 
-<div align="center">
+<div align="left">
     <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-F8/releases">
         <img src="https://img.shields.io/github/downloads/BIOS-iEngineer/HUANANZHI-X99-F8/total.svg" alt="downloads"/>
     </a>
