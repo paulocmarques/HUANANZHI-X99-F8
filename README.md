@@ -1,7 +1,5 @@
 # HUANANZHI X99-F8 GAMING
 
-### Release CX99DE25R 09/24/2020
-
 <div align="left">
     <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-F8/releases">
         <img src="https://img.shields.io/github/downloads/BIOS-iEngineer/HUANANZHI-X99-F8/total.svg" alt="downloads"/>
@@ -13,6 +11,7 @@
         <img src="https://img.shields.io/github/license/BIOS-iEngineer/HUANANZHI-X99-F8.svg" alt="license"/>
     </a>
 </div>
+### Release CX99DE25R 09/24/2020
 
 ## CX99DE25 BIOS for HUANANZHI X99-F8 GAMING Motherboard 07/25/2020
   
