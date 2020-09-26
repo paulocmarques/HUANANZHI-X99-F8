@@ -2,13 +2,13 @@
 
 <div align="left">
     <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-F8/releases">
-        <img src="https://img.shields.io/github/downloads/BIOS-iEngineer/HUANANZHI-X99-F8/total.svg" alt="downloads"/>
+        <img src="https://img.shields.io/github/downloads/BIOS-iEngineer/HUANANZHI-X99-F8/total.svg?color=silver&style=for-the-badge&logo=appveyor" alt="downloads"/>
     </a>
     <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-F8/releases/latest">
-        <img src="https://img.shields.io/github/release/BIOS-iEngineer/HUANANZHI-X99-F8.svg" alt="latest version"/>
+        <img src="https://img.shields.io/github/release/BIOS-iEngineer/HUANANZHI-X99-F8.svg?color=silver&style=for-the-badge&logo=appveyor" alt="latest version"/>
     </a>
     <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-F8/blob/master/License">
-        <img src="https://img.shields.io/github/license/BIOS-iEngineer/HUANANZHI-X99-F8.svg" alt="license"/>
+        <img src="https://img.shields.io/github/license/BIOS-iEngineer/HUANANZHI-X99-F8.svg?style=for-the-badge&logo=appveyor" alt="license"/>
     </a>
 </div>
 
