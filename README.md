@@ -1,5 +1,5 @@
 # HUANANZHI X99-F8 GAMING
-
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V67FWZ82WTFTW)
 <div align="left">
     <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-F8/releases">
         <img src="https://img.shields.io/github/downloads/BIOS-iEngineer/HUANANZHI-X99-F8/total.svg?color=silver&style=for-the-badge&logo=appveyor" alt="downloads"/>
