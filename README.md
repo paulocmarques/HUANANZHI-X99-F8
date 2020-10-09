@@ -1,5 +1,5 @@
-# HUANANZHI X99-F8 GAMING
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V67FWZ82WTFTW)
+# HUANANZHI X99-F8 GAMING <p>(UEFI Only / Legacy Not Supported)</p>
+[![](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=appveyor)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V67FWZ82WTFTW)
 <div align="left">
     <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-F8/releases">
         <img src="https://img.shields.io/github/downloads/BIOS-iEngineer/HUANANZHI-X99-F8/total.svg?color=silver&style=for-the-badge&logo=appveyor" alt="downloads"/>
@@ -12,9 +12,13 @@
     </a>
 </div>
 
-* ##### Release CX99DE25R 09/24/2020
+* ##### Release CX99DE25 07/25/2020
+* ##### Release CX99DE26 10/10/2020
+
+![How Update CX99DE25 to CX99DE26](CX99DE26.png)
 
 ## CX99DE25 BIOS for HUANANZHI X99-F8 GAMING Motherboard 07/25/2020
+## CX99DE26 BIOS for HUANANZHI X99-F8 GAMING Motherboard 10/10/2020
   
 ![CX99DE25 BIOS for HUANANZHI X99-F8 GAMING Motherboard 07/25/2020](MAIN.PNG)
 ![Realtek UIEFI UNDI Driver](UNDI.png)
