@@ -1,4 +1,6 @@
-# HUANANZHI X99-F8 GAMING <p>(UEFI Only / Legacy Not Supported)</p>
+# HUANANZHI X99-F8 GAMING
+* ##### (UEFI Only / Legacy Not Supported)
+
 [![](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=appveyor)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V67FWZ82WTFTW)
 <div align="left">
     <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-F8/releases">
