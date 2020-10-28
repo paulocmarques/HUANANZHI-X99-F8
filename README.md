@@ -1,5 +1,15 @@
 # HUANANZHI X99-F8 GAMING
+
+<a href="https://www.paypal.com/donate?hosted_button_id=ASF2H5CU95MUQ">
+  <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/PayPal.png" alt="Donate with PayPal" />
+</a>
+<a href="https://www.paypal.com/donate?hosted_button_id=ASF2H5CU95MUQ">
+  <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/QR-PayPal.png" alt="Donate with PayPal" />
+</a>
+
 * ##### (UEFI Only / Legacy Not Supported)
+* ##### Release CX99DE25 07/25/2020
+* ##### Release CX99DE26 10/10/2020
 
 <div align="left">
     <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-F8/releases">
@@ -12,9 +22,6 @@
         <img src="https://img.shields.io/github/license/BIOS-iEngineer/HUANANZHI-X99-F8.svg?style=for-the-badge&logo=appveyor" alt="license"/>
     </a>
 </div>
-
-* ##### Release CX99DE25 07/25/2020
-* ##### Release CX99DE26 10/10/2020
 
 * ##### How Update CX99DE25 to CX99DE26, if you have another version BIOS - USE programer device !!!
 ![How Update CX99DE25 to CX99DE26](CX99DE26.png)
