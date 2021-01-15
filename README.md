@@ -7,9 +7,13 @@
   <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/QR-PayPal.png" alt="Donate with PayPal" />
 </a>
 
+* ### BIOS updates will be no longer be released for this motherboard.
+
 * ##### (UEFI Only / Legacy Not Supported)
-* ##### Release CX99DE25 07/25/2020
+* ##### Release CX99DE28 01/15/2021
+* ##### Release CX99DE27 11/25/2020
 * ##### Release CX99DE26 10/10/2020
+* ##### Release CX99DE25 07/25/2020
 
 <div align="left">
     <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-F8/releases">
@@ -23,11 +27,13 @@
     </a>
 </div>
 
-* ##### How Update CX99DE25 to CX99DE26, if you have another version BIOS - USE programer device !!!
-![How Update CX99DE25 to CX99DE26](CX99DE26.png)
+* ##### How Update CX99DE to CX99DE firmware, if you have another BIOS - USE programer device !!!
+![How Update CX99DE25 to CX99DE28](CX99DE26.png)
 
-## CX99DE25 BIOS for HUANANZHI X99-F8 GAMING Motherboard 07/25/2020
+## CX99DE28 BIOS for HUANANZHI X99-F8 GAMING Motherboard 01/15/2021
+## CX99DE27 BIOS for HUANANZHI X99-F8 GAMING Motherboard 11/25/2020
 ## CX99DE26 BIOS for HUANANZHI X99-F8 GAMING Motherboard 10/10/2020
+## CX99DE25 BIOS for HUANANZHI X99-F8 GAMING Motherboard 07/25/2020
   
 ![CX99DE25 BIOS for HUANANZHI X99-F8 GAMING Motherboard 07/25/2020](MAIN.PNG)
 ![Realtek UIEFI UNDI Driver](UNDI.png)
@@ -80,6 +86,3 @@ Addon: 7BB28B99-61BB-11D5-9A5D-0090273FC14D.FFS
 1) Open BIOS file in UEFITool
 2) Find (Ctrl+F) GUID 7BB28B99-61BB-11D5-9A5D-0090273FC14D then select (Ctrl+R) Replace as is (choise new downloaded  7BB28B99-61BB-11D5-9A5D-0090273FC14D.FFS file).
 3) File (Ctrl+S) Save image file.
-
-tRFC Table
-![tRFC Table](tRFC-Table.png)
