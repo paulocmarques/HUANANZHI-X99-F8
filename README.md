@@ -7,8 +7,6 @@
   <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/QR-PayPal.png" alt="Donate with PayPal" />
 </a>
 
-* ### BIOS updates will be no longer be released for this motherboard.
-
 * ##### (UEFI Only / Legacy Not Supported)
 * ##### Release CX99DE28 01/15/2021
 * ##### Release CX99DE27 11/25/2020
