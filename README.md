@@ -72,7 +72,7 @@ MBEx, Cipher Transport Layer TLS (CVE-2017-5689 & CVE-2018-3616), PTT, NFC, RPAT
 7) Hidden BIOS items that do not control.
 
   How to update Firmware:
-1) Burn the Firmware to programmer device. (e.g. EZP-2019)
+1) Burn the Firmware with programmer device. (e.g. EZP-2019)
 2) Clear CMOS.
 3) After restart go to the BIOS setting & use 'Restore Default' / 'F10' / 'Enter'
 4) Configure RAM timings & enjoy.
