@@ -27,7 +27,7 @@
 
 * ##### How Update CX99DE to CX99DE firmware.
 * ##### ⚠️ If you have another BIOS - USE programmer device !!!
-* ##### ⚠️ If you ignore instruction, and updated the firmware as always, then please do not create error messages, read carefully the instructions.
+* ##### ⚠️ If you ignore instruction, and updated any firmware with use software method, then please do not create error messages, read carefully the instructions.
 ![How Update CX99DE25 to CX99DE28](CX99DE26.png)
 
 ## CX99DE28 BIOS for HUANANZHI X99-F8 GAMING Motherboard 01/15/2021
