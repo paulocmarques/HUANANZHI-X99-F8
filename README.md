@@ -28,6 +28,7 @@
 * ##### How Update CX99DE to CX99DE firmware.
 * ##### ⚠️ If you have another BIOS - USE programmer device !!!
 * ##### ⚠️ If you ignore instruction, and updated any firmware with use software method, then please do not create error messages, read carefully the instructions.
+* ##### ⚠️ In some cases, it is required to reset the Power Good signal (Due to the lack of standardization on the part of the motherboard manufacturer).
 ![How Update CX99DE25 to CX99DE28](CX99DE26.png)
 
 ## CX99DE28 BIOS for HUANANZHI X99-F8 GAMING Motherboard 01/15/2021
