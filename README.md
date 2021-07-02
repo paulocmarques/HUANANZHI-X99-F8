@@ -81,8 +81,9 @@
 4. Configure RAM timings and other settings and enjoy!
 
 ## CHANGE FIRMWARE SPLASH SCREEN
-Addon: 7BB28B99-61BB-11D5-9A5D-0090273FC14D.FFS
 ![Belarus Edition](https://raw.githubusercontent.com/mgscreativa/HUANANZHI-X99-F8/master/BELARUS-EDITION.png)
+
+[Download splash screen 7BB28B99-61BB-11D5-9A5D-0090273FC14D.FFS](https://github.com/mgscreativa/HUANANZHI-X99-F8/raw/master/7BB28B99-61BB-11D5-9A5D-0090273FC14D.ffs)
 
 ### How to install
 1) Open BIOS file in UEFITool
