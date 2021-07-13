@@ -87,7 +87,7 @@
 
 ### How to install
 1) Open BIOS file in UEFITool
-2) Find (Ctrl+F) GUID 7BB28B99-61BB-11D5-9A5D-0090273FC14D then select (Ctrl+R) Replace as is (selec the downloaded fle 7BB28B99-61BB-11D5-9A5D-0090273FC14D.FFS)
+2) Find (Ctrl+F) GUID 7BB28B99-61BB-11D5-9A5D-0090273FC14D then select (Ctrl+R) Replace as is (select the downloaded fle 7BB28B99-61BB-11D5-9A5D-0090273FC14D.FFS)
 3) File (Ctrl+S) Save image file
 
 ## UPGRADE FROM CUSTOM FIRMWARE TO CUSTOM FIRMWARE NEW VERSION
