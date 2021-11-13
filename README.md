@@ -30,7 +30,7 @@
 
 ## BEFORE YOU PROCEED
 * ##### ⚠️ UEFI Only / Legacy Not Supported
-* ##### ⚠️ If you have factory stock firmware - _YOU MUST USE A PROGRAMMER DEVICE!_ (e.g. EZP-2019 or CH341A)
+* ##### ⚠️ If you have factory stock firmware - _YOU MUST USE A PROGRAMMER DEVICE!_ (e.g. EZP-2019 or CH341A) [Instruction CH341A](https://www.miyconst.com/Blog/View/2086/ch341a-minimal-usage-guide-how-to-read-and-write-a-motherboard-bios)
 * ##### ⚠️ If you ignored the warning above and flashed your BIOS using firmware update software, please don't create issues, read the instructions carefully and get a programmer device as stated!
 * ##### ⚠️ In some cases, it is required to clear CMOS data, for that, you must unplug all power cables to the motherboard and remove the CMOS battery. This is due to the lack of standardization of chinese motherboard manufacturers.
 
