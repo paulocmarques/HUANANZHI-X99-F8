@@ -1,7 +1,5 @@
 # CUSTOM UEFI FIRMWARE FOR HUANANZHI X99-F8 GAMING
-<a href="https://ko-fi.com/iengineer">
- <img src="https://github.com/BIOS-iEngineer/PNG/blob/main/ko-fi.jpeg" alt="Support Me on Ko-fi"/>
- </a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I1D2IBH)
 
 ## RELEASES
 * ##### Release CX99DE28 01/15/2021
@@ -72,8 +70,8 @@
 ##### ⚠️ If you have factory stock firmware - _YOU MUST USE A PROGRAMMER DEVICE!_ (e.g. EZP-2019 or CH341A)
 
 1. Burn the firmware with a programmer device. (e.g. EZP-2019 or CH341A)
-2. Clear CMOS by plugging motherboar power cables and removing the CMOS battery for a few seconds then plug again.
-3. After restart load setup defauls by entering the BIOS setting and then **Restore Defaults -> F10 -> Enter**
+2. Clear CMOS by plugging motherboard power cables and removing the CMOS battery for a few seconds then plug again.
+3. After restart load setup default by entering the BIOS setting and then **Restore Defaults -> F10 -> Enter**
 4. Configure RAM timings and other settings and enjoy!
 
 ## CHANGE FIRMWARE SPLASH SCREEN
