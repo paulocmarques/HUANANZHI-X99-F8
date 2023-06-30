@@ -1,5 +1,12 @@
 # CUSTOM UEFI FIRMWARE FOR HUANANZHI X99-F8 GAMING
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=5SNAZKN9PGZFJ">
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/Paypal.PNG" alt="Donate with PayPal" />
+</a>
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I1D2IBH)
+
+![CX99DE29 BIOS for HUANANZHI X99-F8 GAMING Motherboard 11/09/2021](https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/X99F82021T.png)
 
 ## RELEASES
 * ##### Release CX99DE28 01/15/2021
