@@ -1,5 +1,12 @@
 # CUSTOM UEFI FIRMWARE FOR HUANANZHI X99-F8 GAMING
 
+✔️ Notice: distribution for russia is prohibited.
+
+<a href="https://www.youtube.com/watch?v=I_a1CI-31g8">
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/F8.png" alt="CX99DE45 BIOS for Huananzhi X99-F8 Gaming/Workstation Motherboard Review" />
+</a>
+
+
 <a href="https://www.paypal.com/donate/?hosted_button_id=5SNAZKN9PGZFJ">
 <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/Paypal.PNG" alt="Donate with PayPal" />
 </a>
